@@ -4,7 +4,7 @@
         <description><![CDATA[Tygrus. Better Everything]]></description>
         <link>https://thegrid.ai/tygrus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 21:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Dec 2015 21:43:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tygrus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/tygrus/f1aaa3b7-5112-48cb-b8af-d3fd79e2dca5/index.html</link>
             <guid isPermaLink="false">f1aaa3b7-5112-48cb-b8af-d3fd79e2dca5</guid>
             <pubDate>Mon, 07 Dec 2015 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test 1]]></title>
-            <description><![CDATA[<article><h1>Test 1</h1><p>Tygrus. Better Everything.</p></article>]]></description>
-            <link>https://thegrid.ai/tygrus/test-1/index.html</link>
-            <guid isPermaLink="false">423d731b-e751-4c06-9853-5128dc4a44ac</guid>
-            <pubDate>Mon, 07 Dec 2015 21:31:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
