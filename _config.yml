@@ -1,7 +1,7 @@
 name: Tygrus
 favicon: null
-layout_spectrum: 0.651768853655085
-typography_spectrum: 0.781724558211863
+layout_spectrum: 0.62602
+typography_spectrum: 0.59162
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.606506354874
-  lightness: 0.908455565571785
-  saturation: 0.22598441340960562
+    - '#ffffff'
+    - '#0c1151'
+    - '#4e9fa0'
+    - '#c5dadb'
+    - '#1b3e66'
+  brandStrength: 0.625
+  lightness: 0.875
+  saturation: 0.1875
   rhythmicContrast: 0.6345656379126012
 purpose: []
