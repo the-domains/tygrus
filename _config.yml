@@ -1,0 +1,28 @@
+name: Tygrus
+favicon: null
+layout_spectrum: 0.651768853655085
+typography_spectrum: 0.781724558211863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.606506354874
+  lightness: 0.908455565571785
+  saturation: 0.22598441340960562
+  rhythmicContrast: 0.6345656379126012
+purpose: []
